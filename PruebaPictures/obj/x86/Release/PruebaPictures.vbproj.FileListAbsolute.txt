@@ -1,0 +1,9 @@
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Release\PruebaPictures.exe
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Release\PruebaPictures.pdb
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Release\PruebaPictures.xml
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.Form1.resources
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.Resources.resources
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.vbproj.GenerateResource.Cache
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.exe
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.xml
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Release\PruebaPictures.pdb

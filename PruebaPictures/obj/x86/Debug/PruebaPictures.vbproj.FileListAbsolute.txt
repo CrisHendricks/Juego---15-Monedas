@@ -1,0 +1,9 @@
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\PruebaPictures.Form1.resources
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\PruebaPictures.Resources.resources
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\PruebaPictures.vbproj.GenerateResource.Cache
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Debug\15Monedas.exe
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Debug\15Monedas.pdb
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\bin\Debug\15Monedas.xml
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\15Monedas.exe
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\15Monedas.xml
+G:\2-DAM\DDI\TEMA 1\PruebaPictures\PruebaPictures\obj\x86\Debug\15Monedas.pdb
